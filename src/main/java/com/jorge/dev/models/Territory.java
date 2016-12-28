@@ -7,6 +7,7 @@ import java.util.Date;
 /**
  * Created by Jorge on 27/12/16.
  */
+
 public class Territory {
 
     @Id

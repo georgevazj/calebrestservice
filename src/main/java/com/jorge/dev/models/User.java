@@ -5,6 +5,7 @@ import org.springframework.data.annotation.Id;
 /**
  * Created by Jorge on 27/12/16.
  */
+
 public class User {
 
     @Id

@@ -8,6 +8,7 @@ import java.util.List;
 /**
  * Created by Jorge on 27/12/16.
  */
+
 public class Publisher {
 
     @Id
