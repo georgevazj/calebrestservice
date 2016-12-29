@@ -60,3 +60,5 @@ hs_err_pid*
 
 .idea/
 calebrestservice.iml
+src/main/resources/application.properties_LOCAL
+src/main/resources/application.properties_PROD

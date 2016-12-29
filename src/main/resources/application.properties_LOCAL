@@ -1,0 +1,2 @@
+spring.data.mongodb.uri=mongodb://heroku_5dsb0fx2:r1l459mh83gtrvissfoi3m7vq4@ds141368.mlab.com:41368/heroku_5dsb0fx2
+spring.data.mongodb.database=caleb
